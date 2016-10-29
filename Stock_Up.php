@@ -402,7 +402,7 @@
 $dollarVars= "[";
 $db_host = 'stockupjames.db.5036399.hostedresource.com';
 $db_user = 'stockupjames';
-$db_pwd = 'Crimson88!';
+$db_pwd = '************';
 
 $database = 'stocks';
 $table = 'price';
